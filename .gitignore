@@ -1,0 +1,6 @@
+# Ignore all the folders with images
+/annotated_image_data
+/Annotations
+/image_annotations
+/image_data
+/images
